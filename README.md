@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariken12
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m write Qt, Python3, C++, AutoHotKey
 
 
 <!---
